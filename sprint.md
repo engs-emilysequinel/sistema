@@ -51,4 +51,4 @@
  #### 🟢Uma area de criação de NPC, aleatorização de caracteristica pra criar mais rapido 👩‍💻 **Eduarda**
  #### 🟢Criar sistema de convites por link/código para campanhas 👩‍💻 **Bianca**
  #### 🟢Criar uma campanha de rpg (onde vai ter todas as coisas acima) 👩‍💻 **Isabely**
- #### 🟢Adicionar a play store e apple👩‍💻 **Todas**
+ #### 🟢Adicionar a play store e apple 👩‍💻 **Todas**

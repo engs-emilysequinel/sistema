@@ -44,7 +44,16 @@ essenciais para ser um MVP.
 * Um escudo do mestre (GM Screen)
 * Um bestiário
 
+### ⋆˚𝜗𝜚˚⋆ᴘᴏʀ ǫᴜᴇ ꜰᴏʀᴀᴍ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴅᴏꜱ ᴀꜱꜱɪᴍ? ⋆.˚✮
+ᯓ★ São melhorias importantes de experiência do usuário  e de conteúdo.
 
+ᯓ★ Melhoram muito a usabilidade (GM Screen, bestiário, visualizador de mapa, dicas de combinação).
+
+ᯓ★ Enriquecem o app (upload de imagens, salvar história, livros atualizados).
+
+ᯓ★ São necessários para o app ficar “bom”, mas não impedem o lançamento.
+
+ᯓ★ Só pode lançar o MVP e depois entregar essas em 2-3 sprints.
 
 
 ## ╰┈➤𝐁𝐚𝐢𝐱𝐚

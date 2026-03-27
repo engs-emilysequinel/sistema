@@ -18,22 +18,16 @@
 * Implementar exportação da ficha para PDF/impressão
 * Criar uma aba para cada raça
 
+### ⋆˚𝜗𝜚˚⋆ᴘᴏʀ ǫᴜᴇ ꜰᴏʀᴀᴍ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴅᴏꜱ ᴀꜱꜱɪᴍ? ⋆.˚✮
+ᯓ★ São a base técnica e de conteúdo do app (sem livros e fichas não existe RPG)
+essenciais para ser um MVP.
 
+ᯓ★ Autenticação e perfis separados são requisitos de segurança.
 
-## ╰┈➤𝐌𝐞𝐝𝐢𝐚
-* Interface do app / software do tabletop
-* Criar um espaço para os livros dos jogadores atualizados
-* Permitir upload de imagem própria
-* Espaço para aparência do personagem (escolher desenhar ou usar modelos prontos)
-* Nuvem para guardar imagens enviadas e outros arquivos
-* Aba para salvar a história
-* Opção de convidar jogadores
-* Desenvolver visualizador simples de mapa/combate (grid 2D)
-* Criar uma aba para cada classe
-* Criar um espaço para visualizar os resumos de cada classe
-* Dicas de combinação entre raça, antecedente e classe
-* Um escudo do mestre (GM Screen)
-* Um bestiário
+ᯓ★ Responsividade é essencial porque RPG é jogado em mesa (celular do jogador + tablet do mestre + desktop).
+
+ᯓ★ Tudo isso forma o MVP (Produto Mínimo Viável). Sem essas tarefas, não dá para lança.
+
 
 ### ⋆˚𝜗𝜚˚⋆ᴘᴏʀ ǫᴜᴇ ꜰᴏʀᴀᴍ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴅᴏꜱ ᴀꜱꜱɪᴍ? ⋆.˚✮
 ᯓ★ São melhorias importantes de experiência do usuário  e de conteúdo.

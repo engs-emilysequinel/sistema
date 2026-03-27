@@ -13,6 +13,7 @@
 #### 🟡TAREFAS DE MEDIA PRIORIDADE
 #### 🟢TAREFAS DE BAIXA PRIORIDADE
 
+
 ## TAREFAS FEITAS
 #### 🔴Ler os livros de RPG  👩‍💻 **Todos**
 #### 🔴Baixar os livros de RPG e subir para o Software 👩‍💻  **Todos**
@@ -27,6 +28,7 @@
 #### 🔴 Criar perfis separados (Jogador x Mestre) com dashboard inicial personalizado 👩‍💻 **Bianca**
 #### 🔴Adicionar validação automática de regras (pontos de atributos, limites de classe, etc.) 👩‍💻 **Eduarda**
 #### 🔴Implementar sistema de níveis e experiência automática entre fichas e campanha 👩‍💻 **Isabely**
+
 
  # FAZENDO:
  #### 🔴Sistema de criação de ficha 👩‍💻 **Bianca**

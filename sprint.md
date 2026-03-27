@@ -13,6 +13,7 @@
 #### 🟡TAREFAS DE MEDIA PRIORIDADE
 #### 🟢TAREFAS DE BAIXA PRIORIDADE
 
+
 ## TAREFAS FEITAS
 #### 🔴Ler os livros de RPG  👩‍💻 **Todos**
 #### 🔴Baixar os livros de RPG e subir para o Software 👩‍💻  **Todos**

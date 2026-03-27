@@ -6,6 +6,7 @@
 ### 👤SCRUM MASTER - EMILY
 ### 👥DESENVOLVEDORAS - BIANCA, ISABELY, EDUARDA
 
+
 # 🎯OBJETIVO DA SPRINT: 
 ### Desenvolver e entregar um aplicativo funcional de um sistema de RPG digital, onde o sistema deve permitir que usuários se cadastrem, criem e utilizem fichas de personagens de forma iterativa. O foco principal da SPRINT será implementar as principais funcionalidades para suportar uma sessão de RPG e a interação entre jogadores e mestre de forma clara.
 

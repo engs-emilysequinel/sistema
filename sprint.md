@@ -29,6 +29,7 @@
 #### 🔴Implementar sistema de níveis e experiência automática entre fichas e campanha 👩‍💻 **Isabely**
 
  # FAZENDO:
+ 
  #### 🔴Sistema de criação de ficha 👩‍💻 **Bianca**
  #### 🔴Sincronização em tempo real de todas as fichas e iniciativa 👩‍💻 **Eduarda**
  #### 🔴Implementar exportação da ficha para PDF/impressão 👩‍💻 **Bianca**

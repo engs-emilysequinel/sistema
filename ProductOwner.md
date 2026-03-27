@@ -29,16 +29,22 @@ essenciais para ser um MVP.
 ᯓ★ Tudo isso forma o MVP (Produto Mínimo Viável). Sem essas tarefas, não dá para lança.
 
 
-### ⋆˚𝜗𝜚˚⋆ᴘᴏʀ ǫᴜᴇ ꜰᴏʀᴀᴍ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴅᴏꜱ ᴀꜱꜱɪᴍ? ⋆.˚✮
-ᯓ★ São melhorias importantes de experiência do usuário  e de conteúdo.
+## ╰┈➤𝐌𝐞𝐝𝐢𝐚
+* Interface do app / software do tabletop
+* Criar um espaço para os livros dos jogadores atualizados
+* Permitir upload de imagem própria
+* Espaço para aparência do personagem (escolher desenhar ou usar modelos prontos)
+* Nuvem para guardar imagens enviadas e outros arquivos
+* Aba para salvar a história
+* Opção de convidar jogadores
+* Desenvolver visualizador simples de mapa/combate (grid 2D)
+* Criar uma aba para cada classe
+* Criar um espaço para visualizar os resumos de cada classe
+* Dicas de combinação entre raça, antecedente e classe
+* Um escudo do mestre (GM Screen)
+* Um bestiário
 
-ᯓ★ Melhoram muito a usabilidade (GM Screen, bestiário, visualizador de mapa, dicas de combinação).
 
-ᯓ★ Enriquecem o app (upload de imagens, salvar história, livros atualizados).
-
-ᯓ★ São necessários para o app ficar “bom”, mas não impedem o lançamento.
-
-ᯓ★ Só pode lançar o MVP e depois entregar essas em 2-3 sprints.
 
 
 ## ╰┈➤𝐁𝐚𝐢𝐱𝐚

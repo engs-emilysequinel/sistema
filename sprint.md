@@ -14,6 +14,7 @@
 #### 🟢TAREFAS DE BAIXA PRIORIDADE
 
 ## TAREFAS FEITAS
+
 #### 🔴Ler os livros de RPG  👩‍💻 **Todos**
 #### 🔴Baixar os livros de RPG e subir para o Software 👩‍💻  **Todos**
 #### 🔴Subir as fichas de rpg 👩‍💻 **Isabely, Bianca, Eduarda**

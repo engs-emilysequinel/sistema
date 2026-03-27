@@ -18,15 +18,7 @@
 * Implementar exportação da ficha para PDF/impressão
 * Criar uma aba para cada raça
 
-### ⋆˚𝜗𝜚˚⋆ᴘᴏʀ ǫᴜᴇ ꜰᴏʀᴀᴍ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴅᴏꜱ ᴀꜱꜱɪᴍ? ⋆.˚✮
-ᯓ★ São a base técnica e de conteúdo do app (sem livros e fichas não existe RPG).
-essenciais para ser um MVP
 
-ᯓ★ Autenticação e perfis separados são requisitos de segurança.
-
-ᯓ★ Responsividade é essencial porque RPG é jogado em mesa (celular do jogador + tablet do mestre + desktop).
-
-ᯓ★ Tudo isso forma o MVP (Produto Mínimo Viável). Sem essas tarefas, não dá para lança.
 
 ## ╰┈➤𝐌𝐞𝐝𝐢𝐚
 * Interface do app / software do tabletop
@@ -56,10 +48,10 @@ essenciais para ser um MVP
 
 
 ## ╰┈➤𝐁𝐚𝐢𝐱𝐚
-* Uma área de criação de NPC com aleatorização de características (para criar mais rápido)
-* Criar sistema de convites por link/código para campanhas
-* Criar uma campanha de RPG (espaço que integra todas as funcionalidades acima)
-* Adicionar o app na Play Store e Apple App Store
+* Uma área de criação de NPC com aleatorização de características (para criar mais rápido).
+* Criar sistema de convites por link/código para campanhas.
+* Criar uma campanha de RPG (espaço que integra todas as funcionalidades acima).
+* Adicionar o app na Play Store e Apple App Store.
 
 ### ⋆˚𝜗𝜚˚⋆ᴘᴏʀ ǫᴜᴇ ꜰᴏʀᴀᴍ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴅᴏꜱ ᴀꜱꜱɪᴍ? ⋆.˚✮
 ᯓ★ Criação de NPC aleatória e sistema de convites por link são ótimos, mas não são essenciais no começo.

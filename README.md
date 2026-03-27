@@ -1,6 +1,6 @@
-# 🎲 Aplicativo de RPG 
+# 🎲 ***Aplicativo de RPG*** 
 
-## 📌 Descrição
+## ╰┈➤       *Descrição*
 
 Este projeto consiste no desenvolvimento de um aplicativo de com o objetivo de facilitar e centralizar a experiência de jogadores e mestres durante sessões de RPG.
 
@@ -9,7 +9,7 @@ O aplicativo busca se tornar um facilitador, reunindo todas as ferramentas neces
 
 ---
 
-## 🚀 Funcionalidades Principais
+## 🚀 *Funcionalidades Principais*
 
 - Cadastro e autenticação de usuários  
 - Login social (Google, Apple, Discord)  
@@ -17,18 +17,18 @@ O aplicativo busca se tornar um facilitador, reunindo todas as ferramentas neces
 - Perfis personalizados (Jogador e Mestre)  
 - Interface responsiva (mobile, tablet e desktop)  
 
-### 🎭 Sistema de Personagens
+### 🎭 *Sistema de Personagens*
 - Criação de fichas de RPG digitais  
 - Fichas interativas e editáveis  
 - Validação automática de regras (atributos, classes, etc.)  
 - Sistema de níveis e experiência automática  
 - Exportação de ficha para PDF  
 
-### 🔄 Sincronização e Armazenamento
+### 🔄 *Sincronização e Armazenamento*
 - Armazenamento em nuvem  
 - Upload de imagens e arquivos  
 
-### 🧠 Extras
+### 🧠 *Extras*
 - Tutorial interativo para novos usuários   
 - Personalização de aparência  
 - Biblioteca de livros de RPG  
@@ -41,10 +41,12 @@ O aplicativo busca se tornar um facilitador, reunindo todas as ferramentas neces
 
 ---
 
-## 👥 Equipe
+## 👥 **Equipe**
 
 - **Product Owner:** Marya  
 - **Scrum Master:** Emily  
 - **Desenvolvedoras:** Bianca, Isabely, Eduarda  
 
 ---
+
+ ₊˚✧

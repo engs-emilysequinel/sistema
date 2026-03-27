@@ -22,11 +22,11 @@
 ᯓ★ São a base técnica e de conteúdo do app (sem livros e fichas não existe RPG).
 essenciais para ser um MVP
 
-ᯓ★ Autenticação e perfis separados são requisitos de segurança
+ᯓ★ Autenticação e perfis separados são requisitos de segurança.
 
 ᯓ★ Responsividade é essencial porque RPG é jogado em mesa (celular do jogador + tablet do mestre + desktop).
 
-ᯓ★ Tudo isso forma o MVP (Produto Mínimo Viável). Sem essas tarefas, não dá para lança
+ᯓ★ Tudo isso forma o MVP (Produto Mínimo Viável). Sem essas tarefas, não dá para lança.
 
 ## ╰┈➤𝐌𝐞𝐝𝐢𝐚
 * Interface do app / software do tabletop
